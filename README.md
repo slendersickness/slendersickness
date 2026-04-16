@@ -1,13 +1,13 @@
 
 <h5 align="center">
 
-  <img src="https://i.postimg.cc/QCXDFt2t/Untitled37-20260127133259.png" width="300" />
+  <img src="https://64.media.tumblr.com/01385735a606cd84326aeed96627d211/0934b1f2c03bbf11-ed/s540x810/03f80a1eede2e570788e4799c9c33e794a5fe0e9.gifv" width="300" />
 
 <h5 align="center">
 
   <img src="https://64.media.tumblr.com/d8c5bd690301fd19fcf4718f4141c6b3/6e6ba9447e5c7203-fe/s250x400/21bbe4184cc1a554f685a1843b49649c55963628.gifv" width="100" />
 <h5 align="center">
-  ${\textsf{\color{#a80505}hello,}}$ ${\textsf{\color{#ba2702}welcome}}$ ${\textsf{\color{#b84f04}to}}$ ${\textsf{\color{#a80505}my}}$ ${\textsf{\color{#ba2702}git}}$ ${\textsf{\color{#b84f04}hub!}}$
+  ${\textsf{\color{#b82c5b}hello,}}$ ${\textsf{\color{#c73666}welcome}}$ ${\textsf{\color{#c2467c}to}}$ ${\textsf{\color{#b82c5b}my}}$ ${\textsf{\color{#c73666}git}}$ ${\textsf{\color{#c2467c}hub!}}$
   
 <h5 align="center">
   <img src="https://64.media.tumblr.com/be2bbe8933d8d115809d12c1163f9db0/916019701cb3c79f-aa/s1280x1920/b66b6bfa004fd8187f71be62984997a0e642f0f4.png" width="300" />
