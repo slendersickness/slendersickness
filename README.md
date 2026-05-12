@@ -10,7 +10,7 @@
   ${\textsf{\color{#b82c5b}hello,}}$ ${\textsf{\color{#c73666}welcome}}$ ${\textsf{\color{#c2467c}to}}$ ${\textsf{\color{#b82c5b}my}}$ ${\textsf{\color{#c73666}git}}$ ${\textsf{\color{#c2467c}hub!}}$
   
 <h5 align="center">
-  <img src="https://64.media.tumblr.com/be2bbe8933d8d115809d12c1163f9db0/916019701cb3c79f-aa/s1280x1920/b66b6bfa004fd8187f71be62984997a0e642f0f4.png" width="300" />
+  <img src="https://files.catbox.moe/xgpdfj.png" width="300" />
   
 <h5 align="center">
 
